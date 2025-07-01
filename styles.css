@@ -1,12 +1,12 @@
 :root {
-    --bg-color: #0a0a0a;
-    --text-color: #111211;
-    --link-bg: #164501;
-    --link-hover: #1d5205;
-    --link-shadow: rgba(0, 0, 0, 0.1);
-    --music-bg: rgba(255, 255, 255, 0.9);
-    --primary-color: #4a86e8;
-    --secondary-color: #9c27b0;
+    --bg-color: #1a1a1a; /* Dark almost black background */
+    --text-color: #ffffff; /* White text for contrast */
+    --link-bg: #8c52ff; /* A vibrant purple for buttons/links */
+    --link-hover: #a06eff; /* Slightly lighter purple for hover effect */
+    --link-shadow: rgba(0, 0, 0, 0.3); /* Darker shadow for depth */
+    --music-bg: rgba(255, 255, 255, 0.1); /* Slightly transparent white for elements on dark background */
+    --primary-color: #00bcd4; /* A bright cyan/teal for highlights */
+    --secondary-color: #ff4081; /* A vivid pink/red accent */
     --transition-speed: 0.4s;
 }
 
