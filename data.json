@@ -33,7 +33,7 @@
         {
             "title": "Private Server GAG",
             "url": "https://www.roblox.com/share?code=dcd47525e12a2049b300ad1bc96b8da3&type=Server",
-            "icon": "https://img.icons8.com/material/24/roblox.png"
+            "icon": "src=\"https://img.icons8.com/material/24/roblox.png\""
         }
     ],
     "music": {
