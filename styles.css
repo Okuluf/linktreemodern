@@ -1,12 +1,12 @@
 :root {
-    --bg-color: #121212; /* A slightly darker, richer black for depth */
-    --text-color: #f0f0f0; /* Soft white for readability on dark backgrounds */
-    --link-bg: #4CAF50; /* A fresh, appealing green for primary actions */
-    --link-hover: #66BB6A; /* Lighter green for a subtle hover effect */
-    --link-shadow: rgba(0, 0, 0, 0.4); /* Deeper shadow for more pop */
-    --music-bg: rgba(255, 255, 255, 0.08); /* Slightly more subtle transparency for music player */
-    --primary-color: #2196F3; /* A vibrant blue for primary highlights/accents */
-    --secondary-color: #FFC107; /* A warm, inviting amber for secondary accents or warnings */
+    --bg-color: #0A0A0A; /* Hitam sangat gelap, hampir pekat untuk kesan mewah */
+    --text-color: #E0E0E0; /* Abu-abu terang yang lembut untuk kontras yang nyaman */
+    --link-bg: #B71C1C; /* Merah marun tua yang kaya untuk aksi utama, sangat elegan */
+    --link-hover: #D32F2F; /* Merah yang sedikit lebih cerah untuk efek hover */
+    --link-shadow: rgba(0, 0, 0, 0.6); /* Bayangan lebih dalam untuk dimensi */
+    --music-bg: rgba(255, 255, 255, 0.05); /* Transparansi sangat tipis untuk elemen musik */
+    --primary-color: #BF0A0A; /* Merah gelap yang intens untuk highlight utama */
+    --secondary-color: #FFEB3B; /* Kuning emas terang untuk aksen sekunder, memberikan sentuhan mewah */
     --transition-speed: 0.4s;
 }
 
