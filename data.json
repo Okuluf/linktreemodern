@@ -2,7 +2,7 @@
     "profile": {
         "name": "Dikka-Store",
         "bio": "Digital creator & content curator. Welcome to my online linktree where I share my contact!",
-        "image": "growagarden.png"
+        "image": "https://images.squarespace-cdn.com/content/v1/63eef39522d7d13427dee5df/48c3ad19-ff2f-468d-bf53-20a9cd501c10/Grow+a+Garden_2.png"
     },
     "links": [
        {
@@ -34,9 +34,9 @@
     "music": {
         "title": "Nuts",
         "artist": "Lil Peep, rainy bear",
-        "albumArt": "YOUR_ALBUM_ART_URL_HERE",
-        "audioFile": "YOUR_AUDIO_FILE_URL.mp3", 
-        "duration": 180,
+        "albumArt": "https://cdn-images.dzcdn.net/images/cover/04c3ec6179e8afb461952ecf4a8d0189/500x500-000000-80-0-0.jpg",
+        "audioFile": "https://on.soundcloud.com/SxdaMjXCZ81MUZZjnX.mp3", 
+        "duration": 85,
         "timeSync": [
             { "time": 0, "text": "Intro music..." },
             { "time": 5, "text": "First verse line 1\nBaris terjemahan" },
