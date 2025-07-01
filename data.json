@@ -1,54 +1,39 @@
 {
     "profile": {
-        "name": "Your Name",
-        "bio": "Digital creator & content curator. Welcome to my online space where I share my passions and connect with you!",
-        "image": "YOUR_PROFILE_IMAGE_URL_HERE"
+        "name": "Dikka-Store",
+        "bio": "Digital creator & content curator. Welcome to my online linktree where I share my contact!",
+        "image": "growagarden.png"
     },
     "links": [
-        {
-            "title": "Instagram",
-            "url": "https://instagram.com/yourusername",
-            "icon": "fab fa-instagram"
+       {
+            "title": "Link Donate",
+            "url": "https://sociabuzz.com/dikkani/tribe",
+            "icon": "fab fa-sociabuzz"
         },
         {
-            "title": "Twitter",
-            "url": "https://twitter.com/yourusername",
-            "icon": "fab fa-twitter"
+            "title": "Saluran testi BY DIKAA",
+            "url": "https://whatsapp.com/channel/0029VbAhXaS7dmeimAduTn0Z",
+            "icon": "fab fa-whatsapp"
         },
         {
-            "title": "YouTube",
-            "url": "https://youtube.com/yourchannel",
-            "icon": "fab fa-youtube"
+            "title": "Grup Whatsapp",
+            "url": "https://whatsapp.com/channel/0029VbAhXaS7dmeimAduTn0Z",
+            "icon": "fab fa-whatsapp"
         },
         {
-            "title": "Website",
-            "url": "https://yourwebsite.com",
-            "icon": "fas fa-globe"
+            "title": "Nomor ADMIN REAL!!",
+            "url": "https://wa.me//62856081703672",
+            "icon": "fab fa-whatsapp"
         },
         {
             "title": "TikTok",
-            "url": "https://tiktok.com/@yourusername",
+            "url": "https://www.tiktok.com/@vvip_grow?_t=ZS-8xbllSKvB2X&_r=1",
             "icon": "fab fa-tiktok"
-        },
-        {
-            "title": "Pinterest",
-            "url": "https://pinterest.com/yourusername",
-            "icon": "fab fa-pinterest"
-        },
-        {
-            "title": "GitHub",
-            "url": "https://github.com/yourusername",
-            "icon": "fab fa-github"
-        },
-        {
-            "title": "LinkedIn",
-            "url": "https://linkedin.com/in/yourusername",
-            "icon": "fab fa-linkedin"
         }
     ],
     "music": {
-        "title": "Your Song Title",
-        "artist": "Artist Name",
+        "title": "Nuts",
+        "artist": "Lil Peep, rainy bear",
         "albumArt": "YOUR_ALBUM_ART_URL_HERE",
         "audioFile": "YOUR_AUDIO_FILE_URL.mp3", 
         "duration": 180,
