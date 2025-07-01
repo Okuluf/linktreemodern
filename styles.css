@@ -1,15 +1,14 @@
 :root {
-    --bg-color: #1a1a1a; /* Dark almost black background */
-    --text-color: #ffffff; /* White text for contrast */
-    --link-bg: #8c52ff; /* A vibrant purple for buttons/links */
-    --link-hover: #a06eff; /* Slightly lighter purple for hover effect */
-    --link-shadow: rgba(0, 0, 0, 0.3); /* Darker shadow for depth */
-    --music-bg: rgba(255, 255, 255, 0.1); /* Slightly transparent white for elements on dark background */
-    --primary-color: #00bcd4; /* A bright cyan/teal for highlights */
-    --secondary-color: #ff4081; /* A vivid pink/red accent */
+    --bg-color: #121212; /* A slightly darker, richer black for depth */
+    --text-color: #f0f0f0; /* Soft white for readability on dark backgrounds */
+    --link-bg: #4CAF50; /* A fresh, appealing green for primary actions */
+    --link-hover: #66BB6A; /* Lighter green for a subtle hover effect */
+    --link-shadow: rgba(0, 0, 0, 0.4); /* Deeper shadow for more pop */
+    --music-bg: rgba(255, 255, 255, 0.08); /* Slightly more subtle transparency for music player */
+    --primary-color: #2196F3; /* A vibrant blue for primary highlights/accents */
+    --secondary-color: #FFC107; /* A warm, inviting amber for secondary accents or warnings */
     --transition-speed: 0.4s;
 }
-
 
 * {
     margin: 0;
