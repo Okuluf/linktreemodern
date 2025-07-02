@@ -5,7 +5,7 @@
     --link-hover: #750505; /* Merah yang sedikit lebih cerah untuk efek hover */
     --link-shadow: rgba(0, 0, 0, 0.6); /* Bayangan lebih dalam untuk dimensi */
     --music-bg: rgba(255, 255, 255, 0.05); /* Transparansi sangat tipis untuk elemen musik */
-    --primary-color: #BF0A0A; /* Merah gelap yang intens untuk highlight utama */
+    --primary-color: #131312; /* Merah gelap yang intens untuk highlight utama */
     --secondary-color: #e6cf07; /* Kuning emas terang untuk aksen sekunder, memberikan sentuhan mewah */
     --transition-speed: 0.4s;
 }
