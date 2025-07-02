@@ -7,8 +7,8 @@
     --music-bg: rgba(255, 255, 255, 0.05); /* Transparansi sangat tipis untuk elemen musik */
     --primary-color: #960202; /* Merah gelap yang intens untuk highlight utama */
     --secondary-color: #e6cf07; /* Kuning emas terang untuk aksen sekunder, memberikan sentuhan mewah */
-    --text-primary: #a30202;
-    --text-secondary: #2c2c2c;
+    --text-primary: #FFFFFF;
+    --text-secondary: #FFFFFF;
     --transition-speed: 0.4s;
 }
 
