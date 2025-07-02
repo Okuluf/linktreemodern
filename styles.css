@@ -7,6 +7,8 @@
     --music-bg: rgba(255, 255, 255, 0.05); /* Transparansi sangat tipis untuk elemen musik */
     --primary-color: #960202; /* Merah gelap yang intens untuk highlight utama */
     --secondary-color: #e6cf07; /* Kuning emas terang untuk aksen sekunder, memberikan sentuhan mewah */
+    --text-primary: #800000;
+    --text-secondary: #191970;
     --transition-speed: 0.4s;
 }
 
@@ -64,7 +66,7 @@ body {
     right: -4px;
     bottom: -4px;
     border-radius: 50%;
-    background: linear-gradient(45deg, var(--primary-color), var(--secondary-color));
+    background: linear-gradient(45deg, var(--text-primary), var(--text-secondary));
     z-index: -1;
     animation: rotate 8s linear infinite;
 }
