@@ -92,7 +92,7 @@ body {
     font-size: 28px;
     font-weight: 700;
     margin-bottom: 8px;
-    background: linear-gradient(90deg, var(--primary-color), var(--secondary-color));
+    background: linear-gradient(90deg, var(--text-primary), var(--text-secondary));
     -webkit-background-clip: text;
     background-clip: text;
     color: transparent;
